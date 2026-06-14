@@ -13,15 +13,12 @@ stack. This PoC pulls 3 public feeds, matches advisories against a
 declared tech stack using **RAG**, and produces a short Markdown report
 listing **only the items that matter** to the team.
 
-## 2. Team
+## 2. Team Members
 
-| Role | Member |
-|---|---|
-| UI / Streamlit | _Student 1_ |
-| Backend / pipeline | _Student 2_ |
-| LLM / prompts | _Student 3_ |
-| Docs / tests / video | _Student 4_ |
-
+- Irikireddy Navya sri
+- Gunjara Keerthana
+- Kalabai Gopi Chand
+- Kaveti Navya Deepthi
 ## 3. Features implemented
 
 - ✅ Pulls **3 public feeds**: GitHub Security Advisories, NVD (NIST), CISA KEV
@@ -188,7 +185,7 @@ pytest tests/ -v
 
 ## 12. Demo video
 
-🎥 _Demo video link will be added here after recording._
+🎥 _https://drive.google.com/file/d/19twPyIl4u3nMmB6We4dCanHOez0Hh_b3/view?usp=drive_link_
 
 ## 13. Demo script (5-7 min)
 
