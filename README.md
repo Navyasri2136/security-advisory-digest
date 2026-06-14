@@ -185,7 +185,7 @@ pytest tests/ -v
 
 ## 12. Demo video
 
-🎥 _https://drive.google.com/file/d/19twPyIl4u3nMmB6We4dCanHOez0Hh_b3/view?usp=drive_link_
+🎥 https://drive.google.com/file/d/1bUh97kpvs07T71B81M_rIOyZJVEU0Juk/view?usp=drivesdk
 
 ## 13. Demo script (5-7 min)
 
